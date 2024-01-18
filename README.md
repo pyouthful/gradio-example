@@ -23,11 +23,13 @@ Run the Docker container:
 ```bash
 docker run -p 7860:7860 pyouthful/gradio-example
 ```
-Once the container is running, you can access the Gradio application by opening a web browser and navigating to http://localhost:7860.
+Once the container is running, you can access the Gradio application by opening a web browser and navigating to:
+
+http://localhost:7860.
 
 ## Demo
 
-This is a simple demo to show hoe it works on Huggingface:
+This is a simple demo to show how it works on Huggingface:
 
 https://huggingface.co/spaces/pyouthful/gradio-example
 
