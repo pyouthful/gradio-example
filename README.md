@@ -13,7 +13,7 @@ Before you begin, make sure you have Docker installed on your system. You can do
 
 To run the Gradio example application using this Docker image, follow these steps:
 
-Pull the [Docker image]([https://hub.docker.com/repository/docker/pyouthful/gradio-example](https://hub.docker.com/repository/docker/pyouthful/gradio-example/tags?page=1&ordering=last_updated)) from the Docker Hub repository:
+Pull the [Docker image](https://hub.docker.com/repository/docker/pyouthful/gradio-example/tags?page=1&ordering=last_updated) from the Docker Hub repository:
 ```bash
 docker pull pyouthful/gradio-example
 ```
