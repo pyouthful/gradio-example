@@ -7,6 +7,8 @@ except ValueError:
 
 root_path = os.environ.get('ROOT_PATH', '')
 
+print("SERVER_PORT:", server_port, "\nROOT_PATH:", root_path)
+
 import gradio as gr
 
 def greet(name):
